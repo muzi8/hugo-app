@@ -1,0 +1,13 @@
+{
+  "name": "about",
+  "label": "About Template",
+  "type": "about",
+  "layout": "single",
+  "schema": [
+    {
+      "type": "text",
+      "name": "about",
+      "label": "About"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "contact",
+  "label": "Contact Template",
+  "type": "contact",
+  "layout": "single",
+  "schema": [
+    {
+      "type": "text",
+      "name": "contact",
+      "label": "Contact"
+    }
+  ]
+}

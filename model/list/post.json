@@ -1,0 +1,13 @@
+{
+  "name": "post",
+  "label": "Post Template",
+  "type": "post",
+  "layout": "list",
+  "schema": [
+    {
+      "type": "text",
+      "name": "author",
+      "label": "Author"
+    }
+  ]
+}

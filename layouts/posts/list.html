@@ -1,0 +1,13 @@
+{{ define "main" }}
+  我是文章列表
+  <ul className='mt-10'>
+    {{ range .Pages }}
+      <li class="mt-10">
+        <a href={{ .RelPermalink }} class='text-lg font-bold underline'>
+          {{ .Title }}
+        </a>
+        {{ .Content }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
