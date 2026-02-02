@@ -1,0 +1,6 @@
+environment:
+  name: 测试对接Connector
+  namespaceId: 72c18f09-cb9d-4451-9e36-bb1328aff13f
+  identifier: ceshiduijieconnector
+  description: 测试对接Connector
+  type: Kubernetes
